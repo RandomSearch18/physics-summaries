@@ -15,11 +15,17 @@
 
 ### Boyle's law
 
-Volume is inversely proportional to pressure (I think) (with constant temperature)
+Volume is inversely proportional to pressure (with constant temperature)
 
-### The other one
+### Charles's law
 
-Pressure is proportional to temperature (I think) (with constant volume)
+Volume is directly proportional to temperature (I think) (with constant pressure)
+
+### Pressure law
+
+Basically a combination of the two laws above.
+
+Pressure is directly proportional to temperature (with constant volume)
 
 ## Kepler's laws of planetary motion
 
