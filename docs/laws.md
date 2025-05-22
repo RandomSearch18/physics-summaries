@@ -17,15 +17,21 @@
 
 Volume is inversely proportional to pressure (with constant temperature)
 
+$$V ∝ \frac{1}{\rho}$$
+
 ### Charles's law
 
-Volume is directly proportional to temperature (I think) (with constant pressure)
+Volume is directly proportional to temperature (with constant pressure)
+
+$$V ∝ T$$
 
 ### Pressure law
 
 Basically a combination of the two laws above.
 
 Pressure is directly proportional to temperature (with constant volume)
+
+$$P ∝ T$$
 
 ## Kepler's laws of planetary motion
 
