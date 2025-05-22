@@ -38,3 +38,11 @@ $$P ∝ T$$
 1. Planets orbit in an ellipse, with the sun at one focus
 2. The area swept out by any planet during a given time period is constant
 3. $$T^2 ∝ r^3$$
+
+## Electromagnetic induction
+
+### Faraday's law of electromagnetic induction
+
+Induced EMF equals the rate of change of magnetic flux, i.e.
+
+$$\varepsilon = -\frac{\Delta(N\phi)}{\Delta t}$$
